@@ -1,0 +1,93 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Tips Efektif Menjadi Productive di Remote Work",
+      "body": "Beradaptasi dengan remote work bisa menjadi tantangan, tetapi dengan beberapa tips ini, Anda bisa tetap produktif di lingkungan kerja jarak jauh.",
+      "tags": [
+        "productivity",
+        "remotework",
+        "workfromhome"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Mengenal Lebih Dekat dengan Framework CSS Terkini: Tailwind CSS",
+      "body": "Tailwind CSS adalah salah satu framework CSS yang sedang populer saat ini. Dengan pendekatan utility-first, Tailwind CSS memungkinkan pengembang untuk membuat desain yang konsisten dan efisien.",
+      "tags": [
+        "css",
+        "frontend",
+        "tailwindcss"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Menjadi Profesional JavaScript: Memahami Konsep Promises",
+      "body": "Promises adalah salah satu konsep fundamental dalam JavaScript yang memungkinkan penanganan asynchronous dengan lebih baik. Memahami cara kerjanya dapat membantu Anda menulis kode JavaScript yang lebih bersih dan efisien.",
+      "tags": [
+        "javascript",
+        "promises",
+        "asynchronousprogramming"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Pengenalan Dasar Pengembangan Aplikasi Mobile dengan React Native",
+      "body": "React Native adalah salah satu framework yang populer untuk pengembangan aplikasi mobile cross-platform. Dengan menggunakan React Native, Anda dapat mengembangkan aplikasi untuk iOS dan Android dengan menggunakan kode JavaScript yang sama.",
+      "tags": [
+        "reactnative",
+        "mobiledevelopment",
+        "cross-platform"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Panduan Memulai Belajar Machine Learning untuk Pemula",
+      "body": "Machine learning adalah salah satu bidang yang sedang berkembang pesat dalam dunia teknologi. Dengan panduan ini, Anda dapat memulai belajar machine learning dari dasar dan membangun pemahaman yang kuat dalam bidang ini.",
+      "tags": [
+        "machinelearning",
+        "artificialintelligence",
+        "datascience"
+      ]
+    },
+    {
+      "id": "9ac4",
+      "title": "Artikel Baru",
+      "body": "Contoh Artikel",
+      "tags": [
+        "post",
+        "vue"
+      ]
+    },
+    {
+      "id": "e986",
+      "title": "Learn Vue 3",
+      "body": "Learning vue js 3 with composition API",
+      "tags": [
+        "vue3",
+        "vuejs",
+        "coompositionapi"
+      ]
+    },
+    {
+      "id": "5d7b",
+      "title": "New Post",
+      "body": "New Content",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "id": "fe5a",
+      "title": "Blog App with Vue.js",
+      "body": "Create Blog App with Vue.js",
+      "tags": [
+        "vue",
+        "vuejs",
+        "post",
+        "blog",
+        "frontend"
+      ]
+    }
+  ]
+}
